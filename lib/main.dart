@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'splashscreen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Splashscreen());
 }
 
 class MyApp extends StatelessWidget {
